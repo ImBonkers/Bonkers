@@ -61,6 +61,4 @@ function showData(form) {
         crossDomain: true,
         dataType: "jsonp"
     });
-
-    // alert(formatted_url);
 }
